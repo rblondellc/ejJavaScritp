@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Negacion</title>
+    </head>
+    <body>
+        <script>
+            var es_deportista = 3 > 5;
+            var otra = !es_deportista;
+            
+            console.log(otra);
+            console.log(es_deportista);
+            
+        </script>
+    </body>
+</html>
